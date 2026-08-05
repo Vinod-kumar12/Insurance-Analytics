@@ -1,25 +1,3 @@
--- =====================================================================
--- Insurance Policy & Claims Analytics — KPI SQL Queries
--- Tables: customer_information, policy_details, claims,
---         payment_history, additional_fields
--- =====================================================================
--- Assumed column names (rename to match your actual table if you
--- imported with different casing/spacing):
---   customer_information : customer_id, name, gender, age, occupation,
---                           marital_status, address
---   policy_details        : policy_id, policy_type, coverage_amount,
---                            premium_amount, policy_start_date,
---                            policy_end_date, payment_frequency,
---                            status, customer_id
---   claims                 : claim_id, date_of_claim, claim_amount,
---                            claim_status, reason_for_claim,
---                            settlement_date, policy_id
---   payment_history         : payment_id, date_of_payment, amount_paid,
---                            payment_method, payment_status, policy_id
---   additional_fields       : agent_id, renewal_status, policy_discounts,
---                            risk_score, policy_id
--- =====================================================================
-
 
 -- 1. Total number of customers
 SELECT COUNT(DISTINCT customer_id) AS total_customers
