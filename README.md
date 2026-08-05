@@ -5,8 +5,6 @@ covering policy performance, claims, and customer demographics — built in
 SQL, Excel,Tableau
 and Power BI.
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
-
 ## Overview
 - **Customers analyzed:** 5,000
 - **Policies issued:** 5,000
