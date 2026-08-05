@@ -42,7 +42,7 @@ Payment History, and Additional Fields (agent, renewal status, risk score).
 
 \## Tools Used
 
-SQL (MySQL) · Excel · Power BI
+SQL (MySQL) · Excel · Power BI .Tableau
 
 \## Dashboard Highlights
 
