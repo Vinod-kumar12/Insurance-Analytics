@@ -4,7 +4,7 @@ An end-to-end analytics project on a 5,000-customer insurance dataset,
 
 covering policy performance, claims, and customer demographics — built in
 
-SQL, Excel, and Power BI.
+SQL, Excel, and Power BI,Tableau.
 
 !\[Dashboard Screenshot\](dashboard/dashboard\_screenshot.png)
 
